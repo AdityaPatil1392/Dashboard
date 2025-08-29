@@ -1,3 +1,3 @@
 # Dashboard
 This is a project
-Author - Aditya Patil
+Author - Aditya R Patil
